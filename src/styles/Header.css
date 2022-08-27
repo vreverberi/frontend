@@ -1,0 +1,15 @@
+header {
+    padding: 16px 0;
+    /* color: red;
+    align-items: start; */
+    /*1rem 0 */
+  }
+  
+  encabezado {
+    background-color: #fed51a;
+    align-items: start;
+  }
+  .holder {
+    max-width: 960px;
+    margin: 0 auto;
+}

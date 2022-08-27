@@ -1,0 +1,19 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .galeria img {
+    width: 23%;
+    border: 1px solid #ddd;
+    padding: 2px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-right: 2%;
+    border-radius: 10%;
+  }
+  .holder {
+    max-width: 960px;
+    margin: 0 auto;
+}

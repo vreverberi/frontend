@@ -1,0 +1,51 @@
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    color: #2e64a1;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .bienvenidos {
+    /* width: 40%; */
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  
+  .testimonios {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  
+  .velero {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .columnas {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .testimonio {
+    /* background-color: #ccc; */
+    /* padding-left: 10px; */
+    box-sizing: border-box;
+  }
+  
+  .testimonio .cita {
+    font-size: small;
+    display: block;
+  }
+  
+  .testimonio .autor {
+    font-size: 10px;
+    text-align: left;
+    display: block;
+    /* margin: 12px 0; */
+  }
+  
