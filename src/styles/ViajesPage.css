@@ -6,6 +6,8 @@
     display: flex;
     gap: 32px;
     align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
   }
   
   .servicio .info h4 {
